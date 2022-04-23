@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.AssemblyInfo.cs
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\bin\Debug\net6.0\MultipleNumber.exe
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\bin\Debug\net6.0\MultipleNumber.deps.json
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\bin\Debug\net6.0\MultipleNumber.runtimeconfig.json
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\bin\Debug\net6.0\MultipleNumber.dll
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\bin\Debug\net6.0\MultipleNumber.pdb
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.dll
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\refint\MultipleNumber.dll
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.pdb
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\MultipleNumber.genruntimeconfig.cache
+C:\Users\HP\Desktop\семинар 17.04\MultipleNumber\obj\Debug\net6.0\ref\MultipleNumber.dll
