@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.AssemblyInfo.cs
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\семинар 17.04\Week\bin\Debug\net6.0\Week.exe
+C:\Users\HP\Desktop\семинар 17.04\Week\bin\Debug\net6.0\Week.deps.json
+C:\Users\HP\Desktop\семинар 17.04\Week\bin\Debug\net6.0\Week.runtimeconfig.json
+C:\Users\HP\Desktop\семинар 17.04\Week\bin\Debug\net6.0\Week.dll
+C:\Users\HP\Desktop\семинар 17.04\Week\bin\Debug\net6.0\Week.pdb
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.dll
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\refint\Week.dll
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.pdb
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\Week.genruntimeconfig.cache
+C:\Users\HP\Desktop\семинар 17.04\Week\obj\Debug\net6.0\ref\Week.dll
